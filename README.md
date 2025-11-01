@@ -8,11 +8,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/GoodnessObilom/followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/GoodnessObilom?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/TristanCage/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/TristanCage?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/">
-    <img title="Repo Size" src="https://img.shields.io/github/repo-size/GoodnessObilom/ozeba-xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
+  <a href="https://github.com/TristanCage/ozeba-xd/">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/TristanCage/ozeba-xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
   </a>
 </div>
 </p>
@@ -39,7 +39,7 @@
 
 ### ✅ First: Star and Fork the Repo
 
-<a href='https://github.com/GoodnessObilom/ozeba-xd/fork' target="_blank">
+<a href='https://github.com/TristanCage/ozeba-xd/fork' target="_blank">
   <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -74,7 +74,7 @@
 ```bash
 apt update && apt upgrade
 pkg install nodejs git
-git clone https://github.com/GoodnessObilom/ozeba-xd
+git clone https://github.com/TristanCage/ozeba-xd
 cd ozeba-xd
 npm install
 npm start
